@@ -1,7 +1,7 @@
 # Udacity_the-data-science-process
 My first submission for the Udacity Data science nanodegree assignment 1
 
-This project analyses the Seattle Airbnb data https://www.kaggle.com/airbnb/seattle/data with the purpose of answering the following three questions.
+**General overview and Motivation:** This project analyses the Seattle Airbnb data with the purpose of answering the following three questions.
 1. Does the number of amenities (e.g. heating, TV, wireless internet, washer, dryer etc) affect demand for 1 bed room types (as shown by availability). Is it worth investing in a lot of amenities to boost demand for a 1 bed?
 
 2. Do hosts categorised as superhosts generally receive higher review scores than hosts that are not superhosts?
@@ -16,6 +16,6 @@ Finally both hosts and guests can benefit in understanding the predictability of
 
 The data analysis of this project was done on Jupyter Notebook (Anaconda 3) using Python 3 prohramming language.
 
-Installation: There should be no additional installation required other than the standard python libraries to run this project
+**Installation:** There should be no additional installation required other than the standard python libraries to run this project
 
-Licensing: There are no restrictions to the citing of this analysis, however, giving credit to the owner of this data will be appreciated.
+**Licensing and Acknowledgements:** There are no restrictions to the citing of this analysis, however, giving credit to the owner of this data will be appreciated. I would like to thank Kaggle and Airbnb for providing access to the dataset that I used.  https://www.kaggle.com/airbnb/seattle/data. Also special thanks to the Udacity team for all the help with my first data science / python project.
