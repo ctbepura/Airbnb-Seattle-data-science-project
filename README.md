@@ -19,3 +19,7 @@ The data analysis of this project was done on Jupyter Notebook (Anaconda 3) usin
 **Installation:** There should be no additional installation required other than the standard python libraries to run this project
 
 **Licensing and Acknowledgements:** There are no restrictions to the citing of this analysis, however, giving credit to the owner of this data will be appreciated. I would like to thank Kaggle and Airbnb for providing access to the dataset that I used.  https://www.kaggle.com/airbnb/seattle/data. Also special thanks to the Udacity team for all the help with my first data science / python project.
+
+**Report on tha data analysis**
+For a report on the data analysis please visit the following link.
+https://medium.com/@caviebepura/hosts-of-seattle-8273ee2b1cb5
